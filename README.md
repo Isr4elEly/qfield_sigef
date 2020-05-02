@@ -6,6 +6,11 @@
 Abaixo iremos construir um projeto no **[QGIS](https://qgis.org/pt_BR/site/)** para coleta de informações durante o levantamento de campo em imóveis rurais para inclusão no **[Sistema de Gestão Funsiária do INCRA - SIGEF](https://sigef.incra.gov.br/)**.
 
 ---
+## Projeto
+
+![Imagem do Projeto](img_ex.png)
+
+---
 ### Parâmetros do projeto
 
 * O projeto será constituído de camadas com geometria e sem geometria;
