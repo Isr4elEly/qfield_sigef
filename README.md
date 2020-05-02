@@ -1,4 +1,5 @@
-# QFIELD - Otimizando Levantamentos de Campo
+# QField - Otimizando Levantamentos de Campo
+**[QField](https://qfield.org/docs/pt/user-guide/index.html)**
 ---
 ## Projeto: qfield_sigef
 
@@ -16,7 +17,7 @@ Abaixo iremos construir um projeto no **[QGIS](https://qgis.org/pt_BR/site/)** p
 * As camadas sem geometria serão:
    * Vértices - tabela com tipos de vértices conforme **[Manual de Limites e Confrontações - pág. 18](https://sigef.incra.gov.br/static/documentos/manual_tecnico_limites_confrontacoes_1ed.pdf)**
    * Limites - tabela com tipos de limites conforme **[Manual de Limites e Confrontações - pág. 15](https://sigef.incra.gov.br/static/documentos/manual_tecnico_limites_confrontacoes_1ed.pdf)**
-   * Métodos de Levantamentos - tabela com tipos de levantamentos conforme o tipo de vértice conforme **[Manual Técnico de Posicionamento - pág. 27](https://sigef.incra.gov.br/static/documentos/manual_tecnico_posicionamento_1ed.pdf)**
+   * Métodos de Levantamentos - tabela com tipos de levantamentos conforme o tipo de vértice segundo o **[Manual Técnico de Posicionamento - pág. 27](https://sigef.incra.gov.br/static/documentos/manual_tecnico_posicionamento_1ed.pdf)**
 ---
 ### Atributos das Camadas
 
@@ -72,3 +73,8 @@ Abaixo iremos construir um projeto no **[QGIS](https://qgis.org/pt_BR/site/)** p
       chave:          text    003
       valor:          text    100    
    ```
+---
+### Observações:
+
+* O QField só está disponível para sistemas android;
+* O arquivo de projeto do QGIS tem que está salvo com a extensão .qgs pois ele não lê a extensão .qgz do qgis 3.x;
