@@ -1,5 +1,5 @@
 # QField - Otimizando Levantamentos de Campo
-**[QField](https://qfield.org/docs/pt/user-guide/index.html)**
+![img_qfield](qfield-logo.svg) **[QField](https://qfield.org/docs/pt/user-guide/index.html)**
 ---
 ## Projeto: qfield_sigef
 
