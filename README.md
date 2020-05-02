@@ -8,7 +8,7 @@ Abaixo iremos construir um projeto no **[QGIS](https://qgis.org/pt_BR/site/)** p
 ---
 ## Projeto
 
-![Imagem do Projeto](img_ex.png)
+![Imagem do Projeto](img_ex2.png)
 
 ---
 ### Parâmetros do projeto
