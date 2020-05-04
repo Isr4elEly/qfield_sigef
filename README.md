@@ -81,7 +81,7 @@ Abaixo iremos construir um projeto no **[QGIS](https://qgis.org/pt_BR/site/)** p
 ---
 ## Vídeo
 
-![[teste](https://i9.ytimg.com/vi/Ax3vZ_Sk39c/mqdefault.jpg?time=1588459924828&sqp=CJjyt_UF&rs=AOn4CLBY10pub-lefxIr5sZc6pVy9P4OHA)](https://studio.youtube.com/video/Ax3vZ_Sk39c/edit)
+[![](CapaVideoQfield.png)](https://www.youtube.com/playlist?list=PLzQWp0jpoFjLlpsRRzXs7Inl_9v-ziVkR)
 
 
 ---
