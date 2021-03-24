@@ -88,4 +88,3 @@ Abaixo iremos construir um projeto no **[QGIS](https://qgis.org/pt_BR/site/)** p
 ### Observações:
 
 * O QField só está disponível para sistemas android;
-* O arquivo de projeto do QGIS tem que está salvo com a extensão .qgs pois ele não lê a extensão .qgz do qgis 3.x;
