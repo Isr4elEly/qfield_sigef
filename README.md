@@ -82,9 +82,3 @@ Abaixo iremos construir um projeto no **[QGIS](https://qgis.org/pt_BR/site/)** p
 ## Vídeo
 
 [![](CapaVideoQfield.png)](https://www.youtube.com/playlist?list=PLzQWp0jpoFjLlpsRRzXs7Inl_9v-ziVkR)
-
-
----
-### Observações:
-
-* O QField só está disponível para sistemas android;
